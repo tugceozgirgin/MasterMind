@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aae8b135-39f5-4455-905b-cffb1576d0ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MasterMind3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeBreaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+    <list default="true" id="aae8b135-39f5-4455-905b-cffb1576d0ec" name="Changes" comment="ll">
+      <change beforePath="$PROJECT_DIR$/src/CodeBreaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeBreaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +60,16 @@
       <updated>1671736507538</updated>
       <workItem from="1671736508998" duration="7280000" />
       <workItem from="1671785621636" duration="3173000" />
-      <workItem from="1671808538008" duration="4350000" />
+      <workItem from="1671808538008" duration="4693000" />
     </task>
+    <task id="LOCAL-00001" summary="ll">
+      <created>1671813116822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671813116822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ll" />
+    <option name="LAST_COMMIT_MESSAGE" value="ll" />
   </component>
 </project>
