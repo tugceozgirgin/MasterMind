@@ -1,23 +1,14 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Game {
-    //main that runs the game
+public class HandleGamePlay {
     static CodeBreaker codeBreaker;
+    static Scanner myScanner;
 
-    public static void main(String[] args) {
-        play();
-    }
 
     public static void play() {
-       /* codeBreaker = new CodeBreaker();
-       String a= codeBreaker.allPossibilities.get(999999);
-       System.out.println(a);*/
-
-        Scanner myScanner = new Scanner(System.in);
-
-
         codeBreaker = new CodeBreaker();
+        myScanner= new Scanner(System.in);
 
 
         int direct = 0;
@@ -52,7 +43,7 @@ public class Game {
 
     }
     public static void exceptionDetected() {
-        Scanner myScanner= new Scanner(System.in);
+        myScanner= new Scanner(System.in);
 
         System.out.println("Do you want to exit (press 0) or start a new game(press 1): ");
         int answer= myScanner.nextInt();
@@ -66,10 +57,3 @@ public class Game {
 
     }
 }
-
-
-
-
-
-
-
